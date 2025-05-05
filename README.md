@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **data-privacy ideas surrounding AI and moodle plugin development to integrate new features with the existing open-source code**
 
-- 💬 Ask me anything about **MERN stack, spring, react and pytorch**
+- 💬 Ask me anything about **MERN stack, spring, tensorflow and pytorch**
 
 - 📫 How to reach me **Feel free to reach out to me either by DM or emailing at keshavchandak2408@gmail.com**
 
