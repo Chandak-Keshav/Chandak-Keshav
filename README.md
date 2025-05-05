@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Keshav Chandak</h1>
 <h3 align="center">A passionate web developer and machine learning enthusiast studying in IIIT-B, specializing in Computer Science & Engineering.</h3>
 
-- 🔭 I’m currently working on [Decadal Change in Land Use and Land Cover in Bangalore](https://github.com/Chandak-Keshav/LULC-ChangeDetection)
+-   Currently working on optimisations and recommender systems. Can't showcase it due to **ongoing research**. Will share the details soon.
+- 🔭 Previuosly worked on [Decadal Change in Land Use and Land Cover in Bangalore](https://github.com/Chandak-Keshav/LULC-ChangeDetection)
 
 - 🌱 I’m currently learning **php and recommender systems**
 
