@@ -2,13 +2,13 @@
 <h3 align="center">A passionate web developer and machine learning enthusiast studying in IIIT-B, specializing in Computer Science & Engineering.</h3>
 
 -   Currently working on optimisations and recommender systems. Can't showcase it due to **ongoing research**. Will share the details soon.
-- 🔭 Previuosly worked on [Decadal Change in Land Use and Land Cover in Bangalore](https://github.com/Chandak-Keshav/LULC-ChangeDetection)
+- 🔭 Previously worked on [Decadal Change in Land Use and Land Cover in Bangalore](https://github.com/Chandak-Keshav/LULC-ChangeDetection)
 
-- 🌱 I’m currently learning **php and recommender systems**
+- 🌱 I’m currently learning **LangChain and Agentic AI**
 
-- 🤝 I’m looking for help with **moodle plugin development to integrate new features with the existing open-source code**
+- 🤝 I’m looking for help with **data-privacy ideas surrounding AI and moodle plugin development to integrate new features with the existing open-source code**
 
-- 💬 Ask me anything about **MERN stack, spring and pytorch**
+- 💬 Ask me anything about **MERN stack, spring, react and pytorch**
 
 - 📫 How to reach me **Feel free to reach out to me either by DM or emailing at keshavchandak2408@gmail.com**
 
